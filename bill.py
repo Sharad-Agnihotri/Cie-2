@@ -4,7 +4,7 @@ if len(sys.argv)>3:
     price=sys.argv[2]
     print("Invalid parameters")
 else:
-    qty
-    price
+    qty=12
+    price=100
 total_bill=qty*price
 print("Total bill is:",total_bill)
