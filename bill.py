@@ -6,5 +6,5 @@ if len(sys.argv)>3:
 else:
     qty=2
     price_per_item=100
-    total_bill=qty*price_per_item
-    print("Total bill is:",total_bill)
+total_bill=qty*price_per_item
+print("Total bill is:",total_bill)
